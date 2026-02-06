@@ -16,14 +16,14 @@
 // 4. Fetching Data from an API
 // 5. Clean up when a component unmounts
 
-import MyComponent from 'MyComponent.jsx'
-import Counter from "./Counter.jsx"
+// import Counter from "./Counter.jsx"
+import Example from "./Example.jsx";
 
 function App() {
   return (
     <>
-      <Counter />
-      <MyComponent />
+      <Example />
+      {/* <Counter /> */}
     </>
   );
 }
