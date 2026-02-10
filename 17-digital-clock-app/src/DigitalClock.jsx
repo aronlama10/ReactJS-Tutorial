@@ -1,4 +1,4 @@
-import { func } from "prop-types";
+// import { func } from "prop-types";
 import React, { useState, useEffect } from "react";
 
 export default function DigitalClock() {
